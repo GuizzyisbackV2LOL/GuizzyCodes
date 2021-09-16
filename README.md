@@ -22,3 +22,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Gui
 
 -- // - Anti AFK   - \\ --
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Anti-Afk/main/Source", true))()
+
+
+-- // - Speedlegends Code   - \\ --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/SpeedCodeV2/main/LegendsSpeedV2"))()
