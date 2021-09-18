@@ -1,6 +1,5 @@
 -- // - Guizzy Gui Main - \\ -- Pls dont steal are Stuff and hard work the Soruces are private btw. Are discord https://discord.gg/zBE9F4jP
-Wait for it to come back maybe.
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyGuiV1.2Arsenal/main/Source"))() New !
 
 
 -- // - Troll Ban Code - \\ --
