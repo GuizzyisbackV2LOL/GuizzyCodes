@@ -1,5 +1,5 @@
 -- // - Guizzy Gui Main - \\ -- Pls dont steal are Stuff and hard work the Soruces are private btw. Are discord https://discord.gg/zBE9F4jP
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyHubV1.2/main/gui.lua"))()
+Wait for it to come back maybe.
 
 
 
