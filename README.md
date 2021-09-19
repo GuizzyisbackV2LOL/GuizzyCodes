@@ -7,7 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Dah
 The ban thing is not a joke. Use it on your alt or troll your friends.
 
 
--- // - GuizzyGui Da hood New added sliet aim - \\ --
+-- // - GuizzyGui Da hood New added sliet aimhelper (;- \\ --
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/MaybeNewSlietAim/main/Mk"))()
 I did half the part of the script and the rest my freind creds to him !
 
