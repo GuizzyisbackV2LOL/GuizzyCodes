@@ -15,6 +15,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/May
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyKorbloxV3/main/korbloxCode"))()
 
 
+-- // - Da hood GuizzyGuiV1.3 New  - \\ --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyGuiDahoodV1.3/main/DaddyGuizzyLovesYou(%3B"))()
+
 
 -- // - animation walks   - \\ --
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyDahoodAN/main/GuizzyAnPackALL"))()
