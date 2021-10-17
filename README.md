@@ -7,7 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Gui
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyGuiDahoodV1.3/main/DaddyGuizzyLovesYou(%3B"))()
 
 -- Main Code | Aimhelper/Aka Slientaim No cheat (;
-loadstring(game:HttpGet("https://pastebin.com/raw/cJizRG26"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Silent.exe/main/Source"))()
 
 -- Main Code | Troll Ban Code
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Dahoodban/main/BanCode"))()
