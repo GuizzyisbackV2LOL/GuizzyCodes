@@ -17,7 +17,7 @@ The ban thing is not a joke. Use it on your alt or troll your friends.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyKorbloxV3/main/korbloxCode"))()
 
 -- Walks | animation walks Code
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyDahoodAN/main/GuizzyAnPackALL"))()
+Removed. 
 
 -- Afk Code | Anti AFK
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Anti-Afk/main/Source", true))()
