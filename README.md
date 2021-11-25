@@ -6,8 +6,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Gui
 -- Main Code | GuizzyDahoodGui Code
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyGuiDahoodV1.3/main/DaddyGuizzyLovesYou(%3B"))()
 
--- Main Code | Aimhelper/Aka Slientaim No cheat (; Updated
-_G.Key = "" MUST ADD KEY SO THE CODE CAN WORK FIND KEY ATT OUR DISCORD https://discord.gg/vf4hxw9P5N
+-- Main Code | Aimhelper/Aka Slientaim No cheat (; Updated MUST ADD KEY SO THE CODE CAN WORK FIND KEY ATT OUR DISCORD https://discord.gg/vf4hxw9P5N
+_G.Key = "" 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Key-/main/Source%201"))()
 
 -- Main Code | Troll Ban Code
