@@ -7,7 +7,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Gui
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyGuiDahoodV1.3/main/DaddyGuizzyLovesYou(%3B"))()
 
 -- Main Code | Aimhelper/Aka Slientaim No cheat (; Updated
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Guizzy.aim-v2-Lol/main/Uziwhyleaveme"))()
+_G.Key = "" MUST ADD KEY SO THE CODE CAN WORK FIND KEY ATT OUR DISCORD https://discord.gg/vf4hxw9P5N
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Key-/main/Source%201"))()
 
 -- Main Code | Troll Ban Code
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Dahoodban/main/BanCode"))()
