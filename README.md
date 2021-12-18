@@ -3,6 +3,9 @@
 -- Main Code | GuizzyGuiArsenalV1.2 Lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyGuiArsenalV1.2/main/Source"))()
 
+-- Main Code | Sk1dware-public 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Sk1dware-public/main/SourceOBFBYALLAHFUSCATOR"))()
+
 -- Main Code | GuizzyDahoodGui Code
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/GuizzyGuiDahoodV1.3/main/DaddyGuizzyLovesYou(%3B"))()
 
